@@ -13,3 +13,7 @@ Determine the department (sales, development, accounting), if none leave blank <
 Generate a random String for a password <br />
 Have set methods to change the password, set the mailbox capacity, and define an alternate email address <br />
 Have get methods to display the name, email, and mailbox capacity <br />
+
+Executed
+
+![image](https://user-images.githubusercontent.com/68548733/166971835-d30ce6c6-e922-41f4-b7a7-967ff60038ad.png)
