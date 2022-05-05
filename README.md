@@ -2,4 +2,14 @@
 
 Project from: https://www.youtube.com/watch?v=U3Ibvu0htNs
 
-![image](https://user-images.githubusercontent.com/68548733/166914146-6364ac22-04e7-4a67-bb75-975b9f35bf85.png)
+<h2>Email Application</h2>
+
+Scenario: You are an IT Support Administrator Specialist and are charged with the task of creating email accounts for new hires
+
+Your application should do the following:
+
+Generate an email with the following syntax: firstname.lastname@department.company.com <br />
+Determine the department (sales, development, accounting), if none leave blank <br />
+Generate a random String for a password <br />
+Have set methods to change the password, set the mailbox capacity, and define an alternate email address <br />
+Have get methods to display the name, email, and mailbox capacity <br />
